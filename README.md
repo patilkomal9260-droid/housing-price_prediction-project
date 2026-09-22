@@ -9,12 +9,12 @@ A Machine Learning web application built using **Streamlit**, **Python**, and **
 Housing Price Prediction/
 │
 ├── Screenshots/
-│   ├── app_home.png          # App landing page screenshot
-│   └── prediction_result.png # Prediction result output screenshot
+│   ├── app_home.png         
+│   └── prediction_result.png 
 │
-├── app.py                    # Streamlit web application script
-├── train_model.py            # Model training script
-├── house_price_model.pkl     # Pre-trained machine learning model
-├── housing.csv               # Dataset used for training
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
+├── app.py                    
+├── train_model.py            
+├── house_price_model.pkl     
+├── housing.csv              
+├── requirements.txt          
+└── README.md                 
